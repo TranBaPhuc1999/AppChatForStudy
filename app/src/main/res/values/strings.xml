@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppChat</string>
+    <string name="login">Đăng nhập</string>
+    <string name="forgot_password">Quên mật khẩu?</string>
+    <string name="username">Tên hiển thị</string>
+    <string name="register">Đăng ký</string>
+    <string name="repeat_password">Nhập lại mật khẩu</string>
+    <string name="password">Mật khẩu</string>
+    <string name="about">About</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="email">Email</string>
+    <string name="enter_group_name">Tên nhóm</string>
+</resources>

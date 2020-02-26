@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "399524635383",
+    "firebase_url": "https://appchatandroidnc.firebaseio.com",
+    "project_id": "appchatandroidnc",
+    "storage_bucket": "appchatandroidnc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399524635383:android:5975c1ce280565d4",
+        "android_client_info": {
+          "package_name": "vn.edu.hou.appchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399524635383-jq8mrss5v5s8joh0bndo8jkhj4oknebb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.edu.hou.appchat",
+            "certificate_hash": "c1dd72eb3b2a3447c78d6f6b529176c4d54eaa87"
+          }
+        },
+        {
+          "client_id": "399524635383-rilh9359akg642v4bmvi8d7a52j994d7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.edu.hou.appchat",
+            "certificate_hash": "afc25c08f016f1d2a6e73c37e47849674ec2a380"
+          }
+        },
+        {
+          "client_id": "399524635383-npbb21ldosod290f2q05j6mtuquethcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv7NXQJseln94vFm1C3N7KwAXjTAPjujI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399524635383-npbb21ldosod290f2q05j6mtuquethcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
