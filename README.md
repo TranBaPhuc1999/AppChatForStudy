@@ -1,4 +1,4 @@
-# # Chat aplication
+# Chat aplication
 
 Chatting application on Android using Firebase
 
